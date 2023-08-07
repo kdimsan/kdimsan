@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Ricardo Adame 👋
 
-<!--
-**kdimsan/kdimsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer and an enthusiast of new tecnologis, always trying to improve.
 
-Here are some ideas to get you started:
+ ### Current tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖊️ Frontend Web with Reactjs 
+
+🖊️ Backend with Nodejs
+
+🧰 And some more...
+
+
+### 📱: My others links
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-adame-santana/)](https://www.linkedin.com/in/ricardo-adame-santana/) 
+[![Gmail Badge](https://img.shields.io/badge/-kdimsantana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdimsantana@gmail.com)](mailto:kdimsantana@gmail.com)
