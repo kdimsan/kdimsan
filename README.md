@@ -6,7 +6,7 @@ I'm a full stack developer and an enthusiast of new tecnologis, always trying to
 
 🖊️ Frontend Web with Reactjs 
 
-🖊️ Backend with Nodejs
+🖊️ Backend with Nodejs, Express and Knex
 
 🧰 And some more...
 
